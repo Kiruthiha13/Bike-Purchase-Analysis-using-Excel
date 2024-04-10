@@ -1,5 +1,7 @@
 # Bike-Purchase-Analysis-using-Excel
 
+In this guided project, I've utilized Excel to cleanse and manipulate the dataset. An interactive dashboard has been crafted to extract valuable insights.
+
 Analysis Process:
 
 1. Unveiled the particulars of the dataset, unraveling its structure and intricacies.
